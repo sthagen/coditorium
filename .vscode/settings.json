@@ -1,8 +1,9 @@
 {
-    "stylelint.validate": [
-        "css",
-        "less",
-        "postcss",
-        "vue" // necessary for stylelint diagnostics in .vue <style> tag
-    ]
+  "editor.formatOnSave": true,
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "vue" // necessary for stylelint diagnostics in .vue <style> tag
+  ]
 }
